@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="coordinator/Main.cs">
+    <Files>
+      <File FileName="coordinator/Main.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ludovic/Xamarin/CppSharp/examples/Clang/Clang.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="792" offsetX="1145" offsetY="12528" expression="sindex" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="796" offsetX="1157" offsetY="12579" expression="stype" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="504" offsetX="924" offsetY="7495" expression="extendedInfo" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="502" offsetX="946" offsetY="7529" expression="info" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="498" offsetX="888" offsetY="7443" expression="buffer.Header.Length" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="498" offsetX="913" offsetY="7470" expression="buffer.FilePosition" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="811" offsetX="1158" offsetY="12632" expression="sval" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="827" offsetX="687" offsetY="10738" expression="sval" liveUpdate="False" />
+    <Watch file="../counters-sampler/common/Inspector/Profiler/EventListener.cs" line="827" offsetX="687" offsetY="10738" expression="sval" liveUpdate="False" />
+    <Watch file="../profiler/src/XamarinProfiler.Core/Reader/CachedBinaryReader.cs" line="64" offsetX="447" offsetY="882" expression="str_pos" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>agent-monodroid/agent-monodroid.csproj</String>
+  </DisabledProjects>
+</Properties>
